@@ -1,0 +1,8 @@
+# SolidWorks lock files
+~$*.SLDPRT
+~$*.sldprt
+~$*.SLDASM
+~$*.sldasm
+
+# Mac nonsense
+.DS_Store
